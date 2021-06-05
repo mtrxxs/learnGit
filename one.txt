@@ -1,2 +1,1 @@
-learn git
-吴枫
+learn 吴枫
